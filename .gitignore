@@ -1,0 +1,9 @@
+# Sensitive/local artifacts
+*.env
+*.log
+*.sql
+*.dump
+cookies.txt
+*.pcap
+.DS_Store
+Thumbs.db
